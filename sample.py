@@ -1,3 +1,3 @@
-a=2
-result=isinstance(a, int)
+a="dhanush"
+result=isinstance(a, str)
 print(result)
